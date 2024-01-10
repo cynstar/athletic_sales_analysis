@@ -1,4 +1,4 @@
-## Challenge 5 - Athletic Sales Analyses athletic_sales_analysis
+## Challenge 5 - Athletic Sales Analyses
 
 ## Description
 
